@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://blink-sg.vercel.app/api/spotify)](https://open.spotify.com/user/Blinkk)
+[![Spotify](https://spotify-psi-seven.vercel.app)](https://open.spotify.com/user/Blinkk)
 
 <!--
 **BLINK-SG/BLINK-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
