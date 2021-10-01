@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **One of my favorite things to do is watching Anime**
 
+[<img src="https://spotify-psi-seven.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ig_blinksg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_blinksg" height="30" width="40" /></a>
