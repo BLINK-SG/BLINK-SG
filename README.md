@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Blinkk&count=1)
+
+
 <!--
 **BLINK-SG/BLINK-SG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
