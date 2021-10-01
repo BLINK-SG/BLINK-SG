@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blink-sg&label=Profile%20views&color=0e75b6&style=flat" alt="blink-sg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blink-sg" alt="blink-sg" /></a> </p>
+[<img src="https://spotify-psi-seven.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/Blinkk)
 
 - 🔭 I’m currently working on [DiscordTogether](https://dsc.gg/acti-vity)
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **One of my favorite things to do is watching Anime**
 
-[<img src="https://spotify-psi-seven.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
