@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://discord.gg/abfzv8BBaR**
 
-- ⚡ Fun fact **One of my favorite things to do is watching Anime**
+- ⚡ Fun fact **One of my favorite things to do is watch Anime**
 
 
 
