@@ -6,7 +6,7 @@
 [<img src="https://spotify-psi-seven.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/Blinkk)
 
 <a href="https://top.gg/bot/891895400938750012">
-  <img src="https://top.gg/api/widget/891895400938750012.svg">
+  <img src="https://top.gg/api/widget/owner/891895400938750012.svg">
 </a>
 
 - 🔭 I’m currently working on [DiscordTogether](https://dsc.gg/acti-vity)
